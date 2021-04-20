@@ -2,8 +2,9 @@
 ### I'm a Systems and Electrical Engineering Student 💻🤖
 
 ## Skills:
-![Made with Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)](https://unity3d.com)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 <!--
 **Fernando3743/Fernando3743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
