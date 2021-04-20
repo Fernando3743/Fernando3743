@@ -2,7 +2,7 @@
 ### I'm a Systems and Electrical Engineering Student 💻🤖
 
 ## Skills:
-![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
+![Unity](https://img.shields.io/badge/Unity-ffffff?style=flat&logo=unity&logoColor=white&labelColor=101010)</br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
