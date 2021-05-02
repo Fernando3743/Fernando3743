@@ -1,4 +1,4 @@
-# Hi there 👋😁, my name is Fernando Lara
+# Hi there 👋😄, my name is Fernando Lara
 ### I'm a Systems and Electrical Engineering Student 💻🤖
 
 Learning something new every single day!🤓, 20 y/o, currently looking for a job as a web developer or videogames developer.
