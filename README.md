@@ -1,7 +1,7 @@
 # Hi there 👋😄, my name is Fernando Lara
 ### I'm a Systems and Electrical Engineering Student 💻🤖
 
-Learning something new every single day!🤓, 20 y/o, currently looking for a job as a web developer or videogames developer.
+Learning something new every single day!🤓, 20 y/o, I love programming, web development and video games development.
 
 ## Skills:
 ![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
