@@ -1,22 +1,58 @@
-# Hi there 👋😄, my name is Fernando Lara
-### I'm a Systems and Electrical Engineering Student 💻🤖
+<div align="center">
 
-Learning something new every single day!🤓, 20 y/o, I love programming, web development and video games development.
+<br>
 
-## Skills:
-![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![Next JS](https://img.shields.io/badge/Next_JS-ffffff?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![C++](https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+```clojure
+;; ══════════════════════════════════════════════════
+;;  Luis Fernando Lara
+;;  Senior Clojure Full Stack Developer
+;; ══════════════════════════════════════════════════
+```
 
-## Portfolio:
-https://fernando3743.github.io
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=63B132&center=true&vCenter=true&repeat=true&width=680&height=100&lines=(def+stack+%5BRing+Compojure+Datomic+Re-frame%5D);(->>+request+authenticate+validate+process+respond);(merge+frontend+%7B%3Aui+Re-frame+%3Acss+Tailwind%7D);(reduce+solve+%5B%5D+problems)" alt="Typing SVG" />
+</a>
+
+</div>
+
+
+```clojure
+(def luis
+  {:self
+   {:name       "Luis"
+    :class      :computer-sciences
+    :college     "Universidad Del Valle"}
+
+   :arsenal
+   {:languages
+    {:lisp      ["Clojure" "ClojureScript"]
+     :jvm       ["Java"]
+     :scripting ["JavaScript" "Python"]
+     :low-level ["C++"]}
+
+    :backend
+    {:storage    {:persistent ["Datomic" "Elasticsearch"]
+                  :ephemeral  ["Redis"]}}
+
+    :frontend
+    {:rendering ["React" "Re-frame" "Fulcro"]
+     :styling   ["TailwindCSS"]}
+
+    :cloud
+    {:aws    {:compute ["Lambda"]
+              :storage ["S3" "DynamoDB"]
+              :ops     ["CloudWatch"]}
+     :devops ["Docker"]}}
+
+   :workflow
+   {:repl-driven true
+    :build       [:deps.edn :lein]
+    :style       [:data-oriented :immutability-first :small-composable-fns]
+    :mantra      '(-> problem simplify solve)}})
+```
+
+<div align="center">
+
+*"Attention is all you need"*
+
+</div>
